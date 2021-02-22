@@ -40,4 +40,4 @@
 - Select **Just the Push Event**
 
 # Step 5: Test it out by commiting a change!
-- Testing a commit 2
+- Testing a commit 3
